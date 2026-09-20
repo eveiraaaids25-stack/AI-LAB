@@ -1,0 +1,2 @@
+Can infer D: True
+Known facts: {'B', 'A', 'C', 'D'}

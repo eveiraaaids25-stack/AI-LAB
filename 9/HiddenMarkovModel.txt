@@ -1,0 +1,6 @@
+
+Observed sequence: ['Walk', 'Shop', 'Clean']
+
+Predicted hidden states: ['Sunny', 'Rainy', 'Rainy']
+
+Log probability of the observed sequence: -4.309519943887134

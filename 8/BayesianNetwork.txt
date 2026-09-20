@@ -1,0 +1,2 @@
+Iteration 1: loglike=-1.714798e+00 (0.001 seconds)
+[0.2 0.8]

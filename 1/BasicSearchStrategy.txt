@@ -1,0 +1,5 @@
+Enter the name that you wanna search: Eve
+Found Eve: {'name': 'Eve', 'age': 45, 'city': 'Phoenix'}
+
+Enter the name that you wanna search: Zoe
+Zoe not found in the list

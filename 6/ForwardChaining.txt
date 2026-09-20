@@ -1,0 +1,1 @@
+Inferred facts: {'A', 'D', 'C', 'B'}
